@@ -6,7 +6,7 @@
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
-[![VS Code Extension](https://img.shields.io/badge/VS%20Code-Aspect%20Code-coming%20soon-orange.svg)](https://marketplace.visualstudio.com/items?itemName=aspect-code.aspect-code)
+[![VS Code Extension](https://img.shields.io/badge/VS_Code_Extension-coming_soon-orange)](#about)
 
 *Measure how project-specific context improves LLM code generation accuracy*
 
@@ -38,7 +38,7 @@ This A/B testing approach measures how much project-specific context improves:
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                         ASPECT BENCH WORKFLOW                               │
+│                   ASPECT BENCH WORKFLOW (With Aspect Code)                  │
 └─────────────────────────────────────────────────────────────────────────────┘
 
   1. SETUP                    2. GENERATE KB              3. GENERATE PROMPTS
